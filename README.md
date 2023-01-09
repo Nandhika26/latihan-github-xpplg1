@@ -1,1 +1,3 @@
-# latihan-github-xpplg1
+Nama  :Nandhika Diega Pratama
+Kelas :X PPLG 1
+I LOVE CODING
